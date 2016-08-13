@@ -1,4 +1,4 @@
-package ru.sbt.lessons2.collections;
+package ru.sbt.collections.lessons2;
 
 import java.util.*;
 

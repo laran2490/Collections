@@ -1,4 +1,4 @@
-package ru.sbt.lessons2.collections;
+package ru.sbt.collections.lessons2;
 
 /**
  * Created by LL on 11.08.2016.
